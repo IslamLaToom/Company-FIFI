@@ -1,0 +1,147 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.Larga{
+    width: 100px;
+    height: 50px;
+}
+header
+{
+    background: url("../img/Campany.jpg") no-repeat center center;
+    background-size: cover;
+    height: 600px;
+}
+#head{
+    padding-left: 900px;
+}
+#head .addres{
+    text-transform: capitalize;
+    background-color: rgb(7, 29, 77);
+    color: thistle;
+    font-size: 40px;
+    padding: 40px;
+    width: 33%;
+    margin-right: 2px;
+    margin:10%;
+}
+.navbar{
+    height: 100px;
+    background-color: #41658e;
+    display:block;
+    width: 100%;
+    padding: 30px;
+    position: fixed;
+    margin-bottom: 40px;
+    text-align: center;
+    font-size: 30px;
+    top: 0;
+    left: 0;
+}
+.link{
+    color: #ffffff;
+    margin-left: 30px;
+    display: inline-block;
+    height: 60px;
+    padding: 17px;
+}
+@font-face{
+    font-family: rakkas;
+    src: url('../Font/Rakkas-Regular.ttf');
+    text-align: center;
+}
+.revar{
+    font-family: rakkas;
+    column-count: 3;
+    column-gap: 200px;
+    column-rule: 5px solid darkmagenta;
+    column-width: 10px;
+    line-height: 1.5;
+    font-size: 20px;
+    margin:33px;
+}
+.divs{
+    text-align: center;
+    font-weight: bold;
+    font-size: 30px;
+}
+:target{
+    border-bottom: 0px solid #c0afaf;
+    color: #ffffff;
+}
+.mydiv{
+    text-align: center;
+}
+.box{
+    background-color: rgba(146, 151, 195, 0.6);
+    padding: 40px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;  
+}
+.box1 ,.box2 ,.box3 ,.box4{
+    border: 5px solid #000000;
+    background-color: #41658e;
+    border-radius: 20px;
+    justify-content: space-around;
+    margin:50px;
+    width: 500px;
+    font-size:20px;
+    height: 230px;
+    padding-top: 20px;
+}
+.text{
+    font-size: 150%;
+    text-align: center;
+    justify-content: space-between;
+    margin-bottom: 40px;
+}
+.Title{
+    text-align: center;
+    color: rgb(144, 150, 156);
+    margin: 2px;
+    font-size: 30px;
+}
+footer{
+    background: url('../img/Campany.jpg') no-repeat center center;
+    height: 800px;
+    background-size: cover;
+}
+footer #footer{
+    background: rgba(17, 17, 19, 0.9);
+    height: 800px;
+    background-size: cover;
+    padding: 7px;
+    color: #ffffff;
+    font-family: 'Arial';
+}
+.logo{
+    color: #ffffff;
+    font-size: 25px;
+    margin-left: 10px;
+    margin:8%;
+    margin-top: 60px;
+    line-height: 50px;
+}
+.Last{
+    line-height: 30px;
+}
+.bade{
+    margin-bottom: 6px;
+    margin: 30px;
+    padding-top: 80px;
+}
+.bade :hover{
+    background-color: rgb(72, 127, 245);
+    cursor: pointer;
+    border-radius: 30px;
+}
+.accunt{
+    margin: 30px;
+    width: 20%;
+}
+.accunt :hover{
+    background-color: rgb(72, 127, 245);
+    border-radius: 30px;
+}
