@@ -1,6 +1,6 @@
-# company-fifi
+# :heavy_check_mark: company-fifi
 desing-companyfifi
-## Islam La Toom
+## :anger: Islam La Toom
 *LEVEL One*
 _KYTC_
 ! [](img/)
@@ -14,4 +14,5 @@ _KYTC_
  #### `code`
  ![The San Juan Mountains are beautiful!](/assets/images/san-juan-mountains.jpg "San Juan Mountains")
 ##### Skills
+*div-box* 
 😄
