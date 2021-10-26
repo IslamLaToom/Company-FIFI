@@ -11,3 +11,5 @@ _KYTC_
 2. Second item
  - Indented item
  - Indented item
+ #### `code`
+ ![The San Juan Mountains are beautiful!](/assets/images/san-juan-mountains.jpg "San Juan Mountains")
