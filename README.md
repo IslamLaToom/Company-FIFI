@@ -13,3 +13,5 @@ _KYTC_
  - Indented item
  #### `code`
  ![The San Juan Mountains are beautiful!](/assets/images/san-juan-mountains.jpg "San Juan Mountains")
+##### Skills
+😄
